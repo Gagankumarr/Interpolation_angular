@@ -7,4 +7,11 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'appone';
+  name="New user";
+  array=["new",10];
+  obj={
+    name:"rishabh",
+    age:16,
+  }
+
 }
